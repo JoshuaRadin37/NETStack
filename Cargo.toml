@@ -3,6 +3,9 @@ name = "net_stack"
 description = "NET (No Extra Time) Stack is a no-std library that enables the creation of a stack of any size with no extra time required for initalization besides the request for memory"
 version = "0.1.0"
 authors = ["Joshua Radin <jradin16@gmail.com>"]
+license-file = "LICENSE"
+readme = "README.md"
+repository = ""
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
